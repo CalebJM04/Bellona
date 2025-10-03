@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "power")(type "KiCad")(uri "${KIPRJMOD}/Dependencies/TPSM863253RDXR/TPSM863253RDXR.kicad_sym")(options "")(descr ""))
+  (lib (name "lis2")(type "KiCad")(uri "${KIPRJMOD}/Dependencies/LIS2MDLTR/LIS2MDLTR.kicad_sym")(options "")(descr ""))
+  (lib (name "lsm6")(type "KiCad")(uri "${KIPRJMOD}/Dependencies/LSM6DSOXTR (1)/LSM6DSOXTR.kicad_sym")(options "")(descr ""))
+  (lib (name "bmp390")(type "KiCad")(uri "${KIPRJMOD}/Dependencies/BMP390/KiCADv6/2025-10-03_16-42-20.kicad_sym")(options "")(descr ""))
+  (lib (name "usbC")(type "KiCad")(uri "${KIPRJMOD}/Dependencies/usbC/2171790001.kicad_sym")(options "")(descr ""))
+)
